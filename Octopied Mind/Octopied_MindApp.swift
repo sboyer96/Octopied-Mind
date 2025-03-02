@@ -11,7 +11,7 @@ import SwiftUI
 struct Octopied_MindApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StoreView()
         }
     }
 }
